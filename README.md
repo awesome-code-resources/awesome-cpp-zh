@@ -1,8 +1,7 @@
-# Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/fffaraz/awesome-cpp/)
-A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 如果您觉得这个项目对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
+# Awesome C[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/fffaraz/awesome-cpp/)精选的C (或C) 框架，库，资源和闪亮的东西。灵感来自令人敬畏的-... 东西。
 
-- [真棒C](#真棒C)
+- [Awesome C](Awesome-C)
   - [标准库](#标准库)
   - [框架](#框架)
   - [人工智能](#人工智能)
@@ -663,6 +662,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [fmtlog](https://github.com/MengRao/fmtlog)-一个高性能的fmtlib风格的日志库，延迟以纳秒为单位。[麻省理工学院]
 * [G3log](https://github.com/KjellKod/g3log)-具有动态接收器的异步记录器。[公共域名]
 * [glog](https://github.com/google/glog)Google logging模块的C实现。
+* [haclog](https://github.com/MuggleWei/haclog)-一个非常快速的普通C日志库。[麻省理工学院]
 * [Log4cpp](http://log4cpp.sourceforge.net/)-用于灵活记录到文件，syslog，IDSA和其他目的地的C类库。[LGPL]
 * [log4cplus](https://github.com/log4cplus/log4cplus)-一个简单易用的C日志API，提供对日志管理和配置的线程安全，灵活和任意粒度的控制。[BSD & Apache2]
 * [loguru](https://github.com/emilk/loguru)-一个轻量级的C日志库。[公共域名]
@@ -1006,6 +1006,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CPPItertools](https://github.com/ryanhaining/cppitertools)-基于范围的for循环加载项的灵感来自Python内置和itertools库。[BSD-2-Clause]
 * [D++ (DPP)](https://github.com/brainboxdotcc/DPP)-一个轻量级，高性能和可扩展的C库，用于创建不和谐的机器人。[Apache2][website](https://dpp.dev)
 * [DynaMix](https://github.com/iboB/dynamix)-一个允许您在运行时撰写和修改对象的库。[麻省理工学院]
+* [faker-cxx](https://github.com/cieslarmichal/faker-cxx)-C 20 Faker库，用于生成用于测试和开发的伪造 (但真实) 数据。[麻省理工学院]
 * [fccf](https://github.com/p-ranav/fccf)-一个命令行工具，递归搜索目录以查找与搜索字符串匹配的C/C源代码。[麻省理工学院]
 * [{fmt}](https://github.com/fmtlib/fmt): zap: -适用于C的小型，安全且快速的格式化库。[简化的BSD][website](https://fmt.dev)
 * [FastFormat](http://www.fastformat.org)-受log4j和Pantheios启发的快速，安全的C格式。[简化的BSD]
@@ -1013,6 +1014,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions)-这个Qt lib基于C VerbalExpressions库。[麻省理工学院]
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint)-一个漂亮的C容器打印库。[升压]
 * [icecream-cpp](https://github.com/renatoGarcia/icecream-cpp)-用于调试目的的小型打印库。[麻省理工学院]
+* [inja](https://github.com/pantor/inja)-现代C的模板引擎。[麻省理工学院]
 * [gcc-poison](https://github.com/leafsr/gcc-poison)-一个简单的头文件，供开发人员禁止应用程序中不安全的C/C函数。
 * [jwt-cpp](https://github.com/Thalhammer/jwt-cpp)-用于在C中创建和验证JSON web令牌的仅标题库。[麻省理工学院]
 * [Kangaru](https://github.com/gracicot/kangaru)-用于C 11和C 14的依赖注入容器。[麻省理工学院]
@@ -1047,9 +1049,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [pprint](https://github.com/p-ranav/pprint)-漂亮的打印机为现代C.[麻省理工学院]
 * [pspsdk](https://github.com/pspdev/pspsdk)-用于PSP自制开发的开源SDK。[BSD/GNU GPL3]
 
-# Software
-*Software for creating a development environment.*
-如果您觉得这个项目对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
+# 软件* 用于创建开发环境的软件。* 
 
 ## 编译器* C或C编译器列表* 
 
@@ -1165,9 +1165,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [EditorConfig](https://editorconfig.org/)-EditorConfig有助于在不同的编辑器和ide中保持一致的编码风格。
 * [Uncrustify](https://github.com/uncrustify/uncrustify)-代码美化器。
 
-# Resources
-*Various resources, such as books, websites, and articles for improving your C++ development skills and knowledge.*
-如果您觉得这个项目对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
+# 资源* 各种资源，如书籍，网站和文章，以提高您的C开发技能和知识。* 
 
 ## API设计
 * [Beautiful Native Libraries](http://lucumr.pocoo.org/2013/8/18/beautiful-native-libraries/)
@@ -1280,11 +1278,9 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [c-algorithms](https://github.com/fragglet/c-algorithms)C算法库。
 * [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 
-# Other Awesome Lists
-*Other amazingly awesome lists*
-如果您觉得这个项目对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
+# 其他令人敬畏的列表* 其他令人惊讶的Awesome 列表* 
 
-* [lists](https://github.com/jnv/lists)-在GitHub上策划的 (真棒) 列表列表。
+* [lists](https://github.com/jnv/lists)-在GitHub上策划的 (Awesome ) 列表列表。
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)-一份令人敬畏的精选清单。
 * [awesome](https://github.com/sindresorhus/awesome): zap: -精选的清单。
 * [C++ links](https://github.com/MattPD/cpplinks)-C资源的分类列表。
@@ -1303,19 +1299,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interviews)-最流行技术的面试问题列表列表，包括C和C。
 * [nothings/single_file_libs](https://github.com/nothings/single_file_libs): zap: -单文件C/C库的列表。
 
-# Jobs
-如果您觉得这个项目对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
-
+# 作业
 * 此列表当前为空，但您可以通过打开合并请求来添加此列表。
 
-# Sponsors
-如果您觉得这个项目对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
-
+# 赞助商
 * 如果您有兴趣赞助此回购，请与我们联系。您公司的名称和徽标将在此处突出显示。
 
-# Contributing
-Please take a quick gander at the [contribution guidelines](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) for details.
-Thanks to all [contributors](https://github.com/fffaraz/awesome-cpp/graphs/contributors); you rock!
-如果您觉得这个项目对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
+# 贡献请快速浏览一下[contribution guidelines](https://github.com/fffaraz/awesome-cpp/blob/master/%5Bthis%5D(CONTRIBUTING.md))有关详细信息。感谢所有[contributors](https://github.com/fffaraz/awesome-cpp/graphs/contributors)；你摇滚!
 
 #### * 如果您在此处看到不再维护或不适合的项目或链接，请提交拉取请求以改进此文档。谢谢!* 
