@@ -2,7 +2,7 @@
 # Awesome C[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/fffaraz/awesome-cpp/)
 精选的C (或C) 框架，库，资源和闪亮的东西。灵感来自令人敬畏的-... 东西。
 
-- [Awesome C](Awesome-C)
+- [Awesome C](#Awesome-C)
   - [标准库](#标准库)
   - [框架](#框架)
   - [人工智能](#人工智能)
