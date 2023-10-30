@@ -1,9 +1,9 @@
 如果您觉得这个[项目](https://github.com/awesome-code-resources/awesome-cpp-zh)对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
-# Awesome C[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/fffaraz/awesome-cpp/)
+# Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/fffaraz/awesome-cpp/)
 
-精选的C (或C) 框架，库，资源和闪亮的东西。灵感来自Awesome -... 东西。
+精选的C (或C) 框架，库，资源和闪亮的东西。灵感来自令人敬畏的-... 东西。
 
-- [Awesome C](#Awesome-C)
+- [Awesome-C++](#Awesome-C++)
   - [标准库](#标准库)
   - [框架](#框架)
   - [人工智能](#人工智能)
@@ -73,8 +73,8 @@
   - [视频](#视频)
   - [网站](#网站)
   - [网络日志](#网络日志)
-  - [其他Awesome 项目](#其他Awesome 项目)
-- [其他Awesome 列表](#其他Awesome 列表)
+  - [其他令人敬畏的项目](#其他令人敬畏的项目)
+- [其他令人敬畏的列表](#其他令人敬畏的列表)
 - [作业](#作业)
 - [赞助商](#赞助商)
 - [贡献](#贡献)
@@ -931,7 +931,7 @@
 * [pocketpy](https://github.com/blueloveTH/pocketpy)-C 17仅用于游戏脚本的Python解释器。[麻省理工学院][website](https://pocketpy.dev/)
 * [pybind11](https://github.com/pybind/pybind11)-C 11和Python之间的无缝可操作性。[BSD]
 * [SIP](https://riverbankcomputing.com/software/sip/intro)-适用于Python v2和v3的C或C绑定生成器。[GPL]
-* [sol2](https://github.com/ThePhD/sol2)-具有高级功能和一流性能的C <-> Lua API包装器。[麻省理工学院]
+* [sol2](https://github.com/ThePhD/sol2)-具有高级功能和一流性能的C &lt;-&gt; Lua API包装器。[麻省理工学院]
 * [SWIG](https://github.com/swig/swig)-一个包装器/接口生成器，可让您将c代码链接到Javascript，Perl，PHP，Python，Tcl和Ruby。[GPL/输出未获得许可][website](http://www.swig.org/)
 * [V7](https://github.com/cesanta/v7)-嵌入式JavaScript引擎。[GPL2]
 * [V8](https://v8.dev)-Google的快速JavaScript引擎，可以嵌入到任何C应用程序中。[BSD]
@@ -1237,7 +1237,7 @@
 ## 编码风格
 
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)-“官方” 一套C指南，由C的作者审查。
-* [C++ Dos and Don'ts](http://www.chromium.org/developers/coding-style/cpp-dos-and-donts)-Chromium项目> 对于开发人员> 编码风格> C Dos和Don'ts。
+* [C++ Dos and Don'ts](http://www.chromium.org/developers/coding-style/cpp-dos-and-donts)-Chromium项目&gt; 对于开发人员&gt; 编码风格&gt; C Dos和Don'ts。
 * [google-styleguide](https://github.com/google/styleguide)-Google发起的开源项目的风格指南。
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [GNU Coding Standard](http://www.gnu.org/prep/standards/standards.html)
@@ -1308,19 +1308,19 @@
 * [Sutter’s Mill](https://herbsutter.com/gotw/)
 * [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
 * [foonathan::blog()](https://foonathan.net/index.html)
-## 其他Awesome 项目
+## 其他令人敬畏的项目
 
 *收集有用的代码，片段，...* 
 
 * [algorithms](https://github.com/xtaci/algorithms)-C中的算法和数据结构。
 * [c-algorithms](https://github.com/fragglet/c-algorithms)C算法库。
 * [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)
-# 其他Awesome 列表
+# 其他令人敬畏的列表
 
-*其他令人惊讶的Awesome 列表* 
+*其他令人惊讶的真棒列表* 
 
-* [lists](https://github.com/jnv/lists)-在GitHub上策划的 (Awesome ) 列表列表。
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)-一份Awesome 精选清单。
+* [lists](https://github.com/jnv/lists)-在GitHub上策划的 (真棒) 列表列表。
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)-一份令人敬畏的精选清单。
 * [awesome](https://github.com/sindresorhus/awesome): zap: -精选的清单。
 * [C++ links](https://github.com/MattPD/cpplinks)-C资源的分类列表。
 * [Awesome C++](https://cpp.libhunt.com/)-LibHunt的镜子.
