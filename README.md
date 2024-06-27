@@ -1,10 +1,9 @@
 如果您觉得这个[项目](https://github.com/awesome-code-resources/awesome-cpp-zh)对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
 本项目的原始仓库地址为[这里](https://github.com/fffaraz/awesome-cpp)。
-# Awesome C[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/fffaraz/awesome-cpp/)
+# Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/fffaraz/awesome-cpp/)
+精选的C (或C) 框架，库，资源和闪亮的东西。灵感来自令人敬畏的-... 东西。
 
-精选的C (或C) 框架，库，资源和闪亮的东西。灵感来自Awesome -... 东西。
-
-- [Awesome C](#Awesome-C)
+- [真棒C](#真棒C)
   - [标准库](#标准库)
   - [框架](#框架)
   - [人工智能](#人工智能)
@@ -76,8 +75,8 @@
   - [视频](#视频)
   - [网站](#网站)
   - [网络日志](#网络日志)
-  - [其他Awesome 项目](#其他Awesome 项目)
-- [其他Awesome 列表](#其他Awesome 列表)
+  - [其他令人敬畏的项目](#其他令人敬畏的项目)
+- [其他令人敬畏的列表](#其他令人敬畏的列表)
 - [作业](#作业)
 - [赞助商](#赞助商)
 - [贡献](#贡献)-[*如果您在此处看到不再维护或不适合的项目或链接，请提交拉取请求以改进此文档。谢谢!* ](#如果您在此处看到不再维护或不适合的项目或链接，请提交拉取请求以改进此文档。谢谢!)
@@ -272,7 +271,7 @@
 * [miniz](https://github.com/richgel999/miniz)-单C源文件Deflate/Inflate压缩库与zlib兼容的API，ZIP存档读/写，PNG写。[麻省理工学院]
 * [Minizip](https://github.com/nmoinvaz/minizip)-具有最新错误修复的Zlib，支持PKWARE磁盘跨越，AES加密和IO缓冲。[zlib]
 * [minizip-ng](https://github.com/zlib-ng/minizip-ng)-在zlib发行版中找到的流行zip操作库的叉子。[zlib]
-* [PhysicsFS](https://icculus.org/physfs/)-提供对各种档案的抽象访问的库。它旨在用于视频游戏，其设计灵感来自Quake 3的文件子系统。[zlib]
+* [PhysicsFS](https://icculus.org/physfs/)-提供对各种档案的抽象访问的图书馆。它旨在用于视频游戏，其设计灵感来自Quake 3的文件子系统。[zlib]
 * [Rapidgzip](https://github.com/mxmlnkn/rapidgzip)-现代多核机器的Gzip解压缩和随机访问。[阿帕奇-2/麻省理工学院]
 * [smaz](https://github.com/antirez/smaz)小字符串压缩库。[BSD]
 * [Snappy](https://google.github.io/snappy/)-快速压缩器/解压缩器。[BSD]
@@ -859,7 +858,7 @@
 * [Dyad.c](https://github.com/rxi/dyad)-C的异步网络。[麻省理工学院]
 * [ENet](https://github.com/lsalzman/enet)-可靠的UDP网络库。[麻省理工学院][website](http://enet.bespin.org/)
 * [evpp](https://github.com/Qihoo360/evpp)-C高性能网络与TCP/UDP/HTTP协议。[BSD]
-* [H2O](https://github.com/h2o/h2o)-优化的HTTP服务器，支持HTTP/1.X和HTTP/2。它也可以用作库。[麻省理工学院]
+* [H2O](https://github.com/h2o/h2o)-优化的HTTP服务器，支持HTTP/1.X和HTTP/2。它也可以用作图书馆。[麻省理工学院]
 * [HTTP Parser](https://github.com/nodejs/http-parser): zap: -C的http请求/响应解析器[麻省理工学院]
 * [KCP](https://github.com/skywind3000/kcp/blob/master/README.en.md)-一种快速可靠的ARQ协议，可帮助应用程序减少网络延迟。[麻省理工学院]
 * [libcurl](http://curl.haxx.se/libcurl/)-多协议文件传输库。[MIT/X派生许可证]
@@ -987,7 +986,7 @@
 
 * [AMGCL](https://github.com/ddemidov/amgcl)-用于求解具有代数多重网格的大型稀疏线性系统的仅标题C库。[麻省理工学院]
 * [FFTW](http://www.fftw.org/)-用于在一个或多个维度上计算DFT的C库。[GPL]
-* [GSL](http://www.gnu.org/software/gsl/)-GNU科学库。[GPL]
+* [GSL](http://www.gnu.org/software/gsl/)-GNU科学图书馆。[GPL]
 * [preCICE](https://github.com/precice/precice)-用于分区多物理模拟的耦合库 (FSI，CHT等)。[LGPL][website](https://precice.org/)
 * [TileDB](https://github.com/TileDB-Inc/TileDB)-快速密集和稀疏多维阵列DBMS。[麻省理工学院][website](https://tiledb.io/)
 * [Trilinos](https://github.com/trilinos/Trilinos)-高性能PDE求解器。[BSD]
@@ -1180,8 +1179,7 @@
 * [Wildcards](https://github.com/zemasoft/wildcards/)-使用通配符实现匹配的一个简单的C标头模板库。[BSL-1.0]
 * [ZBar](http://zbar.sourceforge.net/)-一个条形码扫描仪库，它允许扫描照片/图像/视频流的条形码并返回它们的值。[LGPL2]
 * [ZXing](https://github.com/zxing/zxing/)-用Java实现的开源多格式1D/2D条形码图像处理库，具有其他语言的端口。[阿帕奇]
-# 软件
-
+# Software
 *用于创建开发环境的软件。* 
 
 ## 编译器
@@ -1306,8 +1304,7 @@
 * [Clang-Tidy](http://clang.llvm.org/extra/clang-tidy.html)-基于Clang的C linter工具。
 * [EditorConfig](https://editorconfig.org/)-EditorConfig有助于在不同的编辑器和ide中保持一致的编码风格。
 * [Uncrustify](https://github.com/uncrustify/uncrustify)-代码美化器。
-# 资源
-
+# Resources
 *各种资源，如书籍，网站和文章，以提高您的C开发技能和知识。* 
 
 ## API设计
@@ -1428,19 +1425,18 @@
 * [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
 * [foonathan::blog()](https://foonathan.net/index.html)
 * [C++ Team Blog](https://devblogs.microsoft.com/cppblog/)-来自Microsoft Visual C团队的开发博客
-## 其他Awesome 项目
+## 其他令人敬畏的项目
 
 *收集有用的代码，片段，...* 
 
 * [algorithms](https://github.com/xtaci/algorithms)-C中的算法和数据结构。
 * [c-algorithms](https://github.com/fragglet/c-algorithms)C算法库。
 * [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)
-# 其他Awesome 列表
+# Other Awesome Lists
+*其他令人惊讶的真棒列表* 
 
-*其他令人惊讶的Awesome 列表* 
-
-* [lists](https://github.com/jnv/lists)-在GitHub上策划的 (Awesome ) 列表列表。
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)-一份Awesome 精选清单。
+* [lists](https://github.com/jnv/lists)-在GitHub上策划的 (真棒) 列表列表。
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)-一份令人敬畏的精选清单。
 * [awesome](https://github.com/sindresorhus/awesome): zap: -精选的清单。
 * [C++ links](https://github.com/MattPD/cpplinks)-C资源的分类列表。
 * [Awesome C++](https://cpp.libhunt.com/)-LibHunt的镜子.
@@ -1457,14 +1453,11 @@
 * [Projects](https://github.com/karan/Projects)-任何人都可以用任何编程语言解决的实际项目列表。
 * [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interviews)-最流行技术的面试问题列表列表，包括C和C。
 * [nothings/single_file_libs](https://github.com/nothings/single_file_libs): zap: -单文件C/C库的列表。
-# 作业
-
+# Jobs
 * 此列表当前为空，但您可以通过打开合并请求来添加此列表。
-# 赞助商
-
+# Sponsors
 * 如果您有兴趣赞助此回购，请与我们联系。您公司的名称和徽标将在此处突出显示。
-# 贡献
-
+# Contributing
 请快速浏览一下[contribution guidelines](https://github.com/fffaraz/awesome-cpp/blob/master/%5Bthis%5D(CONTRIBUTING.md))有关详细信息。感谢所有[contributors](https://github.com/fffaraz/awesome-cpp/graphs/contributors)；你摇滚!
 
 #### *如果您在此处看到不再维护或不适合的项目或链接，请提交拉取请求以改进此文档。谢谢!* 
